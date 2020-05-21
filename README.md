@@ -1,0 +1,1 @@
+react app where a user's search input will fetch and display images from an external API
